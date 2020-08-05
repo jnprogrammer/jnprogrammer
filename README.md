@@ -1,6 +1,9 @@
 ### Hi there 👋
+###- 🌱 I’m currently learning Go and I'm using Go to build projects in microservices, ML and other cool things I come across. 
+![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
 
-<!--
+<!-- https://github.com/jnprogrammer/jnprogrammer
+https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif
 **jnprogrammer/jnprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
