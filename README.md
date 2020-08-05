@@ -1,5 +1,6 @@
-### Hi there 👋
-###- 🌱 I’m currently learning Go and I'm using Go to build projects in microservices, ML and other cool things I come across. 
+Hi there 👋![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
+
+I’m currently learning Go and I'm using Go to build projects in microservices, ML and other cool things I come across. 
 ![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
 
 <!-- https://github.com/jnprogrammer/jnprogrammer
