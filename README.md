@@ -1,5 +1,5 @@
 ![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
-Hi there 
+Hi there I just came back from a vacation. Watch out Go lang. I come for you. 
 
 I’m currently learning Go and I'm using Go to build projects in microservices, ML and other cool things I come across. Please reachout and lets talk Go and Programming !!
 
