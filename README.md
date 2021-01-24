@@ -1,9 +1,5 @@
 ![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
-Hi there I just came back from a vacation. Watch out Go lang. I come for you. 
-
-I’m currently learning Go and I'm using Go to build projects in microservices, ML and other cool things I come across. Please reachout and lets talk Go and Programming !!
-
-I've also started learning gRPC and protocal buffers, neat stuff!!
+Golang and Cardano !
 
 <!-- https://github.com/jnprogrammer/jnprogrammer
 https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif
