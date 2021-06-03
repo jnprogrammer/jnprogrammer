@@ -1,5 +1,6 @@
 ![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
-Golang and Cardano !
+I mint NFT's and Native tokens on the cardano blockchian. 
+
 
 <!-- https://github.com/jnprogrammer/jnprogrammer
 https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif
