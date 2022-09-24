@@ -1,6 +1,6 @@
 ![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
 I mint NFT's and Native tokens on the cardano blockchian. 
-
+- 🔭 I’m currently working on Golang(3rd attempt) and Haskell(2nd attempt) while being a DevOps engineer. Nothing is impossible, just not done yet.
 
 <!-- https://github.com/jnprogrammer/jnprogrammer
 https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif
