@@ -1,6 +1,6 @@
 ![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
-I mint NFT's and Native tokens on the cardano blockchian. 
-- 🔭 I’m currently studying for the Linux Admin exam from the Linux Foundation.
+I’m currently using Python and Django to build web apps using TDD and docker images as enviroment. 
+- 🔭 I'm praticing Linux Admin by building a wordpress server from scratch on a Rocky Linux machine
 
 <!-- https://github.com/jnprogrammer/jnprogrammer
 https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif
@@ -9,7 +9,7 @@ https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-###- 🌱 I’m currently using Go to build projects in microservices, Protocal Buffers, ML and gRPC. 
+###- 🌱 I’m currently using Django to build web apps using TDD and docker images. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
