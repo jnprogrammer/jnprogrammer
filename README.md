@@ -1,6 +1,6 @@
 ![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
-I’m currently using Python and Django to build web apps using TDD and docker images as enviroment. 
-- 🔭 I'm praticing Linux Admin by building a wordpress server from scratch on a Rocky Linux machine
+I’m currently using Python and Django to build web apps using test drivin development as the method for building with django. I've set up a docker image to work inside of to develop and use gitlab actions within the project to automatically run the test written to test the API when I push to github. This all is done within a docker images as enviroment. 
+- 🔭 I'm praticing Linux Admin by building a wordpress server from scratch on a Rocky Linux machine.
 
 <!-- https://github.com/jnprogrammer/jnprogrammer
 https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif
