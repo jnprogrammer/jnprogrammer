@@ -1,8 +1,5 @@
 ![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
-I’m currently using Python and Django to build web apps using test drivin development. I use gitlab actions to automatically run the unit tests when I push to github. This all is done within a docker images as environment.
-This app will be the foundation for my portfolio for DevOps.
-
-- 🔭 I'm praticing Linux Admin by building a wordpress server from scratch on a Rocky Linux machine with the help of a good friend.
+- 🔭 DevOps Engineer 
 
 <!-- https://github.com/jnprogrammer/jnprogrammer
 https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif
