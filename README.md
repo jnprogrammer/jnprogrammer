@@ -1,7 +1,6 @@
 ![alt text](https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif?raw=true)
 - 🔭 DevOps Engineer 
 Live projects:
-- [420upgrade.com](https://420upgrade.com)
 - [randomgods.com](https://randomgods.com)
 <!-- https://github.com/jnprogrammer/jnprogrammer
 https://github.com/jnprogrammer/jnprogrammer/blob/master/gifs/gophercoffee.gif
